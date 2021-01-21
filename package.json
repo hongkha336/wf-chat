@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "ejs": "^2.6.1",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "express": "^4.16.3"
   },
   "author": "Dang Nguyen Hong Kha",
